@@ -1,0 +1,4 @@
+case,enterprise_value,equity_value,implied_share_price,pv_fcf,pv_terminal_value,terminal_value
+Bear,"62,349","57,749",106.35,"14,402","47,947","72,095"
+Base,"86,816","82,216",151.41,"19,096","67,719","101,827"
+Bull,"105,644","101,044",186.09,"22,483","83,162","125,047"
